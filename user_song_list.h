@@ -1,0 +1,1 @@
+#define ZELDA_PUZZLE  Q__NOTE(_G5),  Q__NOTE(_FS5),   Q__NOTE(_DS5),   Q__NOTE(_A4),   Q__NOTE(_GS4),   Q__NOTE(_E5),   Q__NOTE(_GS5),   HD_NOTE(_C6),
